@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ImageUr</string>
+    <string name="view_holder_imageur_empty_title">No title</string>
+    <string name="view_holder_imageur_empty_votes">No votes</string>
+    <string name="view_holder_imageur_empty_views">No views</string>
+    <string name="enable_gps_permissions">You didn\'t enable the GPS permissions, It\'s a shame...</string>
+    <string name="gps_disabled_message">Please, enable the GPS</string>
+</resources>
