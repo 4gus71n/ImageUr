@@ -12,3 +12,7 @@ Using RxJAva and Retrofit2 I achived a service layer architecture. The idea is t
    * https://www.reddit.com/r/androiddev/comments/2ccetz/retrofit_volley_ion_comparison_between_the_3/
    * https://github.com/ruler88/GithubDemo
    * https://github.com/codepath/android_guides/wiki/Consuming-APIs-with-Retrofit
+
+##APK
+
+[Click here](https://github.com/4gus71n/ImageUr/blob/master/app-debug.apk) to download directly the debug apk to your phone.
